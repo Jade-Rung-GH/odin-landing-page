@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         bg: "#1f2937",
+        bg2: "#e5e7eb",
         placeholder: "#6d747d",
         button: "#3c82f6",
       },
